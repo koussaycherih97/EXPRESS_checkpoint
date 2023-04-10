@@ -1,5 +1,4 @@
-body {
-    background-color: hwb(0 3% 97%) !important; 
+body { 
     display: flex;
     flex-direction: column;
     justify-content: center;
